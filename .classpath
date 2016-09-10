@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Wokspace/Sample1/jars/poi-3.14.jar"/>
+	<classpathentry kind="lib" path="D:/Wokspace/Sample1/jars/poi-ooxml-3.14.jar"/>
+	<classpathentry kind="lib" path="D:/Wokspace/Sample1/jars/poi-ooxml-schemas-3.14.jar"/>
+	<classpathentry kind="lib" path="D:/Wokspace/Sample1/jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Wokspace/Sample1/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_102"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
